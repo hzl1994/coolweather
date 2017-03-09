@@ -1,0 +1,29 @@
+[33mcommit a8cf95674784b590d892b31d4bc4e12e6d306476[m
+Author: hzl <1107495265@qq.com>
+Date:   Thu Mar 9 16:04:01 2017 +0800
+
+    加入显示天气、切换城市和手动更新天气的功能
+
+[33mcommit fec52898d355fd6734a5ee7d87bc0582acb727b9[m
+Author: hzl <1107495265@qq.com>
+Date:   Wed Mar 8 21:24:07 2017 +0800
+
+    完成遍历省市县三级列表功能
+
+[33mcommit 54c85416ff46e1c3ab238a292c8e7b6307303197[m
+Author: hzl <1107495265@qq.com>
+Date:   Wed Mar 8 19:13:59 2017 +0800
+
+    加入创建数据库和表的各项配置。
+
+[33mcommit 86183b40595a100bd4a718b5db5be7812475eccf[m
+Author: hzl <1107495265@qq.com>
+Date:   Wed Mar 8 18:55:05 2017 +0800
+
+    First commit.
+
+[33mcommit 5295944d928a8c85fdbd73c80bec3af6fdf8bf0f[m
+Author: hzl1994 <1107495265@qq.com>
+Date:   Wed Mar 8 18:37:32 2017 +0800
+
+    Initial commit
